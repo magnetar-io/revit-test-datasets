@@ -2,3 +2,5 @@ Backup/
 *.-[0-9].rvt
 Revit/0001_Site.*.rvt
 Revit/0002_Arch_Podium.*.rvt
+Revit/000_Levels_Grids_Content.*.rvt
+Revit/0003_Arch_WallLayout1-Option A.*.rvt
