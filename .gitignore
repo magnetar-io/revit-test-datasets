@@ -5,5 +5,5 @@ Revit/0002_Arch_Podium.*.rvt
 Revit/000_Levels_Grids_Content.*.rvt
 Revit/0003_Arch_WallLayout1-Option A.*.rvt
 *.log
-FME Demos/Revit Change Detection/Revit Model Change Detection Advanced.fmw.recover
-FME Demos/Revit Change Detection/Revit Model Change Detection Basic.fmw.recover
+*.recover
+Revit/0004_Arch_Occupancy and Fiire.*.rvt
