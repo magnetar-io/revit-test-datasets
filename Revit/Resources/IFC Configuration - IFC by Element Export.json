@@ -19,7 +19,7 @@
   },
   "Export2DElements": true,
   "ExportLinkedFiles": false,
-  "VisibleElementsOfCurrentView": true,
+  "VisibleElementsOfCurrentView": false,
   "ExportRoomsInView": false,
   "ExportInternalRevitPropertySets": true,
   "ExportIFCCommonPropertySets": true,
@@ -39,7 +39,7 @@
     "ClassificationFieldName": null
   },
   "TessellationLevelOfDetail": 0.5,
-  "ExportPartsAsBuildingElements": true,
+  "ExportPartsAsBuildingElements": false,
   "ExportSolidModelRep": true,
   "UseActiveViewGeometry": false,
   "UseFamilyAndTypeNameForReference": true,
